@@ -1,3 +1,9 @@
+## Main FORK Information
+This fork based on commit `5adb7fc43fdb741fa3cee1a3aa9caf457c19744d` of [aerokube/ggr](https://github.com/aerokube/ggr) project, descributed under Apache Licence 2.0 licence. Fork made on 22/09/2025. 
+
+All further changes in this fork remain under Apache-2.0 Licence.
+
+
 # Go Grid Router
 [![Build Status](https://github.com/aerokube/ggr/workflows/build/badge.svg)](https://github.com/aerokube/ggr/actions?query=workflow%3Abuild)
 [![Coverage](https://codecov.io/github/aerokube/ggr/coverage.svg)](https://codecov.io/gh/aerokube/ggr)
