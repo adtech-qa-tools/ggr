@@ -1,0 +1,1 @@
+This product includes software developed by community and portions based on on commit `5adb7fc43fdb741fa3cee1a3aa9caf457c19744d` of `aerokube/ggr project`, descributed under Apache Licence 2.0 licence.
